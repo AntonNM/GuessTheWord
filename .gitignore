@@ -1,0 +1,7 @@
+*express-webserver/*
+secrets.yaml
+ConfigMap.yaml
+ingressclass.yaml
+.env
+node_modules/
+deployment/

@@ -1,0 +1,12 @@
+[submodule "webserver"]
+	path = webserver
+	url = https://github.com/AntonNM/GTWWebServer.git
+[submodule "signaling-server"]
+	path = signaling-server
+	url = https://github.com/AntonNM/SignalingServer.git
+[submodule "game-states"]
+	path = game-states
+	url = https://github.com/AntonNM/GTWNLP.git
+[submodule "load-balancing"]
+	path = load-balancing
+	url = https://github.com/AntonNM/GTWLoadBalancer.git
