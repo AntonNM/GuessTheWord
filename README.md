@@ -1,45 +1,13 @@
 
-Coturn server conf
+# Guess The Word 
+### 2-player word guessing game
 
-https://www.videosdk.live/developer-hub/stun-turn-server/webrtc-turn-server
+##### Next.js web server and API
 
-```
-   listening-port=3478
-   fingerprint
-   use-auth-secret
-   static-auth-secret=mysecret
-   realm=my-turn-server.mycompany.com
-   total-quota=100
-   bps-capacity=0
-   stale-nonce=600
-   no-multicast-peers
-   no-cli
-   log-file=/var/log/turnserver.log
-   simple-log
+##### React.js web client with Tailwind
 
-```
+##### python & Word2Vec content-generation
 
+##### Node.js websocket signaling server and consistent hashing load balancer for kubernetes deployments
 
-# Kubernetes
-
-### web Server
-
-Deployment
-LoadBalancer service
-CPU HorizontalPodAutoscalar (HPA)
-
-### Signaling Server
-
-Statefulset
-Headless service
-CPU HPA
-
-
-
-### Coturn 
-
-TBD
-option 1.)
-StatefulSet
-HeadlessService
-CPU HPA
+https://gtw.antonmladenov.xyz/

@@ -1,26 +1,21 @@
-# Test on next deployment
+# V 1.0.1
 
-turns 
+Allow game-content customization
 
-# V1.0.0-beta blocking
+Allow customizable game modes
 
-create api route with user-input target word
+Co-turn service auto-scaling
 
-game play settings
+Vector database for game-content
 
-Coturn scaling 
+forbidden word fuzzy detection
 
+P2P time synching protocol
 
 # Nice to Haves
-
-Ouput game-states as JSON
-
-Error handling for poorly shaped messages
-
-Update game state creation to handle Capitilization well.
 
 Photopea icon/faicon.io 
 
 # In Consideration
 
-nickanme feature: Add database for user/auth?
+nickname or full auth
