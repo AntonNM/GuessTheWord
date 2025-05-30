@@ -6,7 +6,7 @@
 
 ##### React.js web client with Tailwind
 
-##### python & Word2Vec content-generation
+##### Python & Word2Vec content-generation
 
 ##### Node.js websocket signaling server and consistent hashing load balancer for kubernetes deployments
 
